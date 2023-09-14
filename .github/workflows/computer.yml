@@ -1,13 +1,13 @@
 computer:
   cpu:
-    manufacturer: Intel
-    cores: 8
-    frequency: 3.2 GHz
+    manufacturer: AMD
+    cores: 12
+    frequency: 4.2 GHz
   memory:
-    manufacturer: Kingston
-    size: 16 GB
+    manufacturer: Corsair
+    size: 32 GB
     type: DDR4
   disk:
-    manufacturer: Samsung
-    size: 512 GB
-    type: SSD
+    manufacturer: Western Digital
+    size: 1 TB
+    type: HDD
