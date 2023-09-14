@@ -1,12 +1,8 @@
 schedule:
-  year: "2022"
-  program: java
+  year: "2023"  
+  program: "Java Programming"
   lessons:
-    - date: "2022-02-01"
-      startTime: "08:00"
-      endTime: "12:00"
-      description: "Working with Java"
-    - date: "2022-02-02"
-      startTime: "08:00"
-      endTime: "12:00"
-      description: "Working with Java"
+    - date: "2023-09-15"
+      description: "Introduction to Java basics"
+    - date: "2023-09-16"
+      description: "Working with Java variables"
