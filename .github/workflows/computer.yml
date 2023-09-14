@@ -1,9 +1,13 @@
 computer:
   cpu:
+    manufacturer: Intel
     cores: 8
+    frequency: 3.2 GHz
   memory:
-    size: 16GB
+    manufacturer: Kingston
+    size: 16 GB
     type: DDR4
   disk:
+    manufacturer: Samsung
+    size: 512 GB
     type: SSD
-    capacity: 512GB
