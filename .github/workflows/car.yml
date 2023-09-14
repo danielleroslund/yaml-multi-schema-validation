@@ -1,8 +1,8 @@
 car:
-  manufacturer: Volvo
-  model: XC90
-  year: "2022"
+  manufacturer: Nissan
+  model: Qashqai
+  year: "2023"
   attributes:
-    - Luxury
+    - Crossover
     - SUV
-  reg: AB1234
+  reg: XYZ567
