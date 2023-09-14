@@ -1,8 +1,10 @@
 schedule:
-  year: "2022" 
-  program: "java"
+  year: "2023"
+  program: "Java"
   lessons:
-    - date: "2022-02-01"
+    - date: "2023-09-14"
       description: "Working with Java"
-    - date: "2022-02-02"
+    - date: "2023-09-15"
+      description: "Working with Java"
+    - date: "2023-09-16"
       description: "Working with Java"
