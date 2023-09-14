@@ -1,1 +1,8 @@
-
+car:
+  manufacturer: Volvo
+  model: XC90
+  year: "2022"
+  attributes:
+    - Luxury
+    - SUV
+  reg: AB1234
