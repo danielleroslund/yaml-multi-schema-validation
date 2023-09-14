@@ -1,9 +1,10 @@
 person:
   name:
     first_name: Anna
-    last_name: Svensson
-  age: "35"
+    last_name: Andersson
+  age: 30
   class: A
+  start_year: 2020
   hobbies:
+    - Reading
     - Hiking
-    - Cooking
